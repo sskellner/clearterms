@@ -1,11 +1,3 @@
-/**
-* Template Name: Bocor - v2.0.0
-* Template URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-
 // slick stuff
     $(document).ready(function(){
       // $('.single-item').slick();
@@ -40,7 +32,7 @@
 
 !(function($) {
   "use strict";
-
+  // adapted from template https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
   // Smooth scroll for the navigation menu and links with .scrollto classes
   $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
