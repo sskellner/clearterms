@@ -1,5 +1,7 @@
 # ClearTerms website implementation
 
+![mid-fi mockup of website screens](https://github.com/sskellner/clearterms/blob/master/Frame%2023%20(2).png)
+
 Documentation: 
 - [Google Drive] includes presentation, content docs, documentation, etc.
 - [Figma file] contains lo-fi, mid-fi, and hi-fi prototypes; color scheme/branding guide
